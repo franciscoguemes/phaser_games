@@ -1,0 +1,23 @@
+{
+  "name": "phaser_games",
+  "version": "1.0.0",
+  "description": "This lesson is based on the video: https://www.youtube.com/watch?v=mvAbWWn1cTk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/franciscoguemes/phaser_games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franciscoguemes/phaser_games/issues"
+  },
+  "homepage": "https://github.com/franciscoguemes/phaser_games#readme",
+  "dependencies": {
+    "phaser": "^3.23.0"
+  }
+}
